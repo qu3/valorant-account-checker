@@ -3,7 +3,7 @@
   
 
   # Valorant Account Checker with Capture
-  Pip install -r requirements.tx
+  Pip install -r requirements.txt
 
   Check accounts from file with proxy support. Capture skins, regions, ranks, valorant points (VP) and radianite points (RP) 
 
